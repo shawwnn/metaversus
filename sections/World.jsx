@@ -31,6 +31,11 @@ const World = () => (
         <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
           <img src="people-03.png" alt="people-01" className="w-full h-full" />
         </div>
+        {/* assignment: https://www.youtube.com/watch?v=ugCN_gynFYw&t=5841s*/}
+        {/* <div className="absolute top-1/5 left-[45%] w-[196px] h-[150px] p-[6px] rounded-[24px] bg-[#5d6680]">
+          <img src="world-1.png" alt="people-01" className="w-full h-full rounded-[24px]" />
+        </div> */}
+        {/* <WorldBox /> */}
       </motion.div>
     </motion.div>
   </section>
